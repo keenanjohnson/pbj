@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Candybar"
+date:   2014-09-02 17:14:21
+categories: pbj
+---
+
+![Candybar]({{ site.baseurl }}/assets/candybar.png)
