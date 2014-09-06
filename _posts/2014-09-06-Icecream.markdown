@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ice Cream"
+date:   2014-09-06 10:46:21
+categories: pbj
+---
+
+![Ice Cream]({{ site.baseurl }}/assets/icecream.jpeg)
