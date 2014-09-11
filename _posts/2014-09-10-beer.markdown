@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beer"
+date:   2014-09-10 21:26:21
+categories: pbj
+---
+
+![Beer]({{ site.baseurl }}/assets/beer.jpeg)
