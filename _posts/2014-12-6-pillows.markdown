@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pillows"
+date:   2014-12-06 22:34:21
+categories: pbj
+---
+
+![Pillows](http://tiwibzone.tiwib.netdna-cdn.com/images/peanut-butter-jelly-sandwich-pillows.jpg)
